@@ -1,0 +1,10 @@
+
+logging:
+  filePath: ./log
+  config: classpath:logback-spring.xml
+  level:
+    ROOT: info
+
+kj3650:
+  exportPath: /Users/fanchengheng/idea/kj3650/src/main/resources/3650.xlsx
+  chromedriver: /Users/fanchengheng/idea/kj3650/src/main/resources/config/chromedriver

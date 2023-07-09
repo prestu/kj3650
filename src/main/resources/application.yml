@@ -1,0 +1,11 @@
+server:
+  port: 3650
+
+spring:
+  application:
+    name: kj3650
+  profiles:
+    active: win
+
+kj3650:
+  url: https://kj3650.com/pc/#/lottery?id=10048

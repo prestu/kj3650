@@ -1,0 +1,10 @@
+
+logging:
+  filePath: D:\kj3650\log
+  config: classpath:logback-spring.xml
+  level:
+    ROOT: info
+
+kj3650:
+  exportPath: D:\kj3650\3650.xlsx
+  chromedriver: C:\Program Files\Google\Chrome\Application\chromedriver.exe
